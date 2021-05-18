@@ -1,8 +1,8 @@
-#Demo Git Repo
+# Demo Git Repo
 
 This is my first file in my repo.
 
-##Second edit 
+## Second edit 
 
 
 This is my second edit
